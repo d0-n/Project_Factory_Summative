@@ -15,3 +15,6 @@ Creates an attendance tracking project with proper folder structure.
 
 # Testing the archive feature
 Press Ctrl+C while the script is running. It will create a backup and clean up.
+
+# Video walkthrough
+https://drive.google.com/file/d/1Drc6NAXUr-SQOWd-94AWsk_46svj8RWY/view?usp=sharing
